@@ -18,9 +18,9 @@ import SwiftUI
 import IntroScreen
 
 let introData: [IntroData] = [
-    IntroData(title: "Choose Products", desc: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.", image: "twinlake"),
-    IntroData(title: "Make Payment", desc: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.", image: "twinlake"),
-    IntroData(title: "Get Your Order", desc: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.", image: "twinlake")
+    IntroData(title: "Choose Products", desc: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.", imageInAsset: "twinlake"),
+    IntroData(title: "Make Payment", desc: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.", imageInAsset: "twinlake"),
+    IntroData(title: "Get Your Order", desc: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.", imageInAsset: "twinlake")
 ]
 
 struct ContentView: View {
