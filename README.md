@@ -4,11 +4,13 @@
 https://github.com/aabid0177/IntroScreen-SwiftUI
 
 ### Preview
-![ezgif com-video-to-gif-converter (3)](https://github.com/aabidDevit/IntroScreen-SwiftUI/assets/84720808/0272feee-5c76-406d-8097-d4f246986f01)
+![ezgif com-video-to-gif-converter (3)](https://github.com/aabid0177/IntroScreen-SwiftUI/assets/58103845/033f84cd-c0c1-496b-b45b-cbb0de2f69fd)
+
 
 ### How to use?
 -> Add package [IntroScreen](https://github.com/aabidDevit/IntroScreen) in your xcode <br>
-![ezgif com-video-to-gif-converter (2)](https://github.com/aabidDevit/IntroScreen-SwiftUI/assets/84720808/cbda341c-34c6-4999-8106-efa8b1d40da9)
+![ezgif com-video-to-gif-converter (2)](https://github.com/aabid0177/IntroScreen-SwiftUI/assets/58103845/2b7f237e-6cea-4c70-92b9-a2308fd83949)
+
 
 ### Code
 ```swift
